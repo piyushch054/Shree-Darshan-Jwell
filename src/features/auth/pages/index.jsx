@@ -1,0 +1,5 @@
+export { CreateAccountPage } from './sign-up.jsx'
+export { ForgotPasswordPage } from './forgot-password.jsx'
+export { ResetPasswordPage } from './reset-password.jsx'
+export { SignInPage } from './sign-in.jsx'
+export { VerificationPage } from './verify-code.jsx'
